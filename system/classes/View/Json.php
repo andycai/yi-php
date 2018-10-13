@@ -18,7 +18,7 @@ class View_Json
 	{
 		if ($data !== NULL)
 		{
-			$this->_data = $data
+			$this->_data = $data;
 		}
 	}
 
